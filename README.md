@@ -57,30 +57,3 @@ The analysis is performed using the following libraries:
 ## Conclusion
 
 This project demonstrates the power of data analysis in understanding and improving performance in Formula 1. The use of Python and specialized libraries like FastF1 enables detailed and insightful analysis of vast amounts of motorsport data.
-
-## How to Use
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/f1-data-analysis.git
-    ```
-
-2. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the analysis scripts:
-    ```bash
-    python analysis_script.py
-    ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- The FastF1 developers for providing an excellent library to access Formula 1 data.
-- All contributors to the Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, and Statsmodels libraries.
-
