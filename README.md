@@ -1,5 +1,7 @@
 # Formula 1 Data Analysis
 
+![Alt Text](https://github.com/luigiascio/Thesis-Behind-the-Performances-of-Formula-1/blob/main/Immagine1.png)
+
 This repository contains the code and data analysis for a thesis focused on leveraging Python to analyze Formula 1 data. The analysis demonstrates how data from past races can be processed to extract valuable insights about performance, strategy, and race dynamics.
 
 ## Project Overview
